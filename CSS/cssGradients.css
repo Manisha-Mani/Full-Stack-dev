@@ -1,0 +1,7 @@
+body{
+    /*background-image: linear-gradient(to right, rgba(2,0,36,1), rgba(28,28,150,1), rgba(0,212,255,1) );*/
+    /*background-image: url(Panda.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;*/
+    background-image: radial-gradient(rgba(2,0,36,1), rgba(28,28,150,1), rgba(0,212,255,1));
+}

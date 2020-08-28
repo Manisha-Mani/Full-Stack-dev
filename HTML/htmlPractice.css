@@ -1,0 +1,28 @@
+div{
+    background: purple;
+    color: salmon;
+}
+
+#quote{
+    font-family: "verdana", "gill sans";
+    color: teal;
+
+}
+.hobby{
+    color: tomato;
+    background: yellow;
+}
+span#author{
+    text-transform: uppercase;
+}
+#food ol li{
+    color: violet;
+    background: white;
+}
+h6+p{
+    background-color: turquoise;
+    color: black;
+}
+p[class]{
+    background-color: coral;
+}

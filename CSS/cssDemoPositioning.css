@@ -1,0 +1,55 @@
+#Container
+{
+   background-color: rgb(199, 221, 221);
+   border: 10px groove; 
+   border-radius: 5px;
+   text-align: justify;
+   padding: 20px 20px 20px 20px;
+   margin: 10px 220px;
+   margin-top: 90px;
+}
+#absoluteP
+{
+    background-color: black;
+    color: white;
+    text-align: justify;
+    padding: 20px 20px 20px 20px;
+    margin: 10px 220px;
+}
+#topleft
+{
+    background-color: thistle;
+    color: black;
+    position: absolute;
+    width: 400px;
+    height: 200px;
+}
+#bottomright
+{
+    background-color: rgb(194, 117, 194);
+    color: black;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+
+    z-index: 5;
+}
+#fixedP
+{
+    position: fixed;
+    background-color: blanchedalmond;
+    color: brown;
+}
+#relative1
+{
+    background-color: cadetblue;
+    border: 1px solid black;
+}
+#relative2
+{
+    position: relative;
+    left: 20px;
+}
+img{
+    float: right;
+}

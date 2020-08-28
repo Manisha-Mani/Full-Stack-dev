@@ -1,0 +1,80 @@
+#Random{
+    background-color:beige;
+    color: rgb(97, 206, 206);
+    border: 10px groove;
+    padding: 20px 20px 20px 20px;
+    margin: 30px 30px;
+    margin-right: 360px;
+}
+#normal
+{
+    font-style: normal;
+}
+#italic
+{
+    font-style: italic;
+}
+#oblique
+{
+    font-style: oblique;
+}
+#smallcaps
+{
+    font-variant: small-caps;
+}
+#wnormal
+{
+    font-weight: normal;
+}
+#wbold
+{
+    font-weight: bold;
+}
+#wbolder
+{
+    font-weight: bolder;
+}
+#wlighter
+{
+    font-weight: lighter;
+}
+#xxlarge
+{
+    font-size: xx-large;
+}
+#large
+{
+    font-size: large;
+}
+#medium
+{
+    font-size: medium;
+}
+#small
+{
+    font-size: small;
+}
+#xxsmall
+{
+    font-size: xx-small;
+}
+#size25pt
+{
+   font-size: 25pt; 
+}
+#size150
+{
+    font-size: 150%;
+}
+#lnormal
+{
+    line-height: normal;
+}
+#lpt
+{
+    line-height: 25pt;
+}
+#l200
+{
+    line-height: 200%;
+}

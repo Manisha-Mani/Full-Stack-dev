@@ -1,0 +1,69 @@
+a:hover{
+    background-color: darkcyan;
+    color: darkmagenta;
+    cursor: cell;
+}
+body{
+    background-color: darksalmon;
+    color: darkslategray;
+    border: 10px groove;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 200px;
+}
+p{
+    background-color: blanchedalmond;
+    color: darkslategrey;
+    width: 300px;
+    box-shadow: 0 0 30px red; 
+  
+    margin: 0 auto;
+    text-align: justify;
+
+    /*word-spacing: 10px;
+    letter-spacing: 2px;*/
+}
+#food{
+    background-color: white;
+    color: black;
+    margin: 0 auto;
+    width: 10px;
+    height: 10px;
+}
+#NavTag:hover{
+    display: block;
+    background-color: dimgray;
+    color: white;
+    
+}
+header{
+    
+    width: fit-content; 
+    margin: 10px auto; 
+}
+footer{
+    clear: both;
+}
+
+img{
+    float: left;
+}
+p{
+    clear: both;
+}
+/*p:before{
+    content: "@@@";
+
+}*/
+ul{
+    list-style-type: lower-greek;
+    list-style-position: inside;
+}
+ol{
+    background-color: rgb(201, 142, 142);
+    width: 300px;
+    margin: 10px auto;
+}
+li:nth-child(2n){
+    background-color: cyan;
+    color: darkblue;
+}

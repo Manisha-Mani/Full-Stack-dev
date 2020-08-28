@@ -1,0 +1,10 @@
+p{
+    border: 4px groove bisque;
+    background-color: gainsboro;
+    width: 500px;
+    color: navy;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px 10px 10px 10px;
+    margin: 10px auto;
+    text-align: justify;
+}

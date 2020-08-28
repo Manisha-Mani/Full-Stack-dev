@@ -1,0 +1,20 @@
+p{
+    border: 6px groove rgb(209, 206, 203);
+    background-color: rgb(241, 182, 219);
+    width: 500px;
+    color: rgb(70, 9, 56);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px 10px 10px 10px;
+    margin: 10px auto;
+    text-align: justify;
+}
+ul{
+    border: 6px groove rgb(209, 206, 203);
+    background-color: rgb(241, 182, 219);
+    width: 500px;
+    color: rgb(70, 9, 56);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px 10px 10px 10px;
+    margin: 10px auto;
+    text-align: justify;
+}
